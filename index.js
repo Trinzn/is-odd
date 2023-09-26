@@ -1,4 +1,4 @@
-/*!
+/* !
  * is-odd <https://github.com/jonschlinkert/is-odd>
  *
  * Copyright (c) 2015-2017, Jon Schlinkert.
