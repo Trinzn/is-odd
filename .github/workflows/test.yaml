@@ -13,7 +13,7 @@ jobs:
     - name: Use Node.js 16.0
       uses: actions/setup-node@v2
       with:
-        node-verson: '16.0'
+        node-version: '16.0'
     - name: Install dependencies
       run: npm install
     - name: Run tests
