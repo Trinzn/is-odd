@@ -3,7 +3,7 @@
     "description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
     "version": "3.0.1",
     "homepage": "https://github.com/jonschlinkert/is-odd",
-    "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+    "author": "Trinidad Schmidle",
     "contributors": [
         "Die Maschine",
         "Trini"
