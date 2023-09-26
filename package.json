@@ -22,10 +22,12 @@
     },
     "scripts": {
         "test": "mocha",
-        "lint": "eslint ."
+        "lint": "eslint .",
+        "coverage": "nyc mocha"
     },
     "dependencies": {
-        "is-number": "^6.0.0"
+        "is-number": "^6.0.0",
+        "nyc": "^15.1.0"
     },
     "devDependencies": {
         "eslint": "^8.50.0",
