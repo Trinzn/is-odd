@@ -9,7 +9,7 @@ describe('isOdd', function () {
         assert(!isOdd(0));
         assert(!isOdd(2));
         assert(isOdd(1));
-        assert(isOdd(2));
+        assert(isOdd(3));
         assert(isOdd(-1));
         assert(isOdd(-3));
         assert(isOdd(1.0e0));
